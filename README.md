@@ -13,7 +13,7 @@ Nesse módulo, nós mergulharemos em mais conceitos de programação em Dart e a
 Vamos fazer um aplicativo de perguntas e respostas. 
 
 <p align="center">
-  <img height="500" src="https://user-images.githubusercontent.com/51465884/112037299-5b2fb680-8b20-11eb-92ee-0f8becdd98a0.png">
+  <img height="500" src="https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/quiz-app-estrutura-inicial.png">
 </p>
 
 ## O que nós iremos aprender?
